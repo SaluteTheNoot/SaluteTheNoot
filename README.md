@@ -7,8 +7,8 @@ My name is Yousuf and I am a Computer Science student!
 class Yousuf:
   def __init__(self):
     self.age = 20
-    self.hobbies = ["Coding", "Lifting", "Sid Meier's Civ VI"]
-    self.school = "UT Dallase"
+    self.hobbies = ["Coding", "Lifting", "Super Smash Bros"]
+    self.school = "UT Dallas"
     self.email = "yousufkhalid776@gmail.com"
 ```
 
@@ -26,3 +26,6 @@ class Yousuf:
   * ML Researcher @ UT Dallas
 
 ## 👻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
