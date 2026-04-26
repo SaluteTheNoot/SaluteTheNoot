@@ -22,7 +22,7 @@ class Yousuf:
 * ⏮️ Previous Experience:
   * Software Engineering Intern @ Capital One
   * Software/ML Intern @ NASA
-  * Security Engineering Intern @ Critical Start
+  * Agentic AI/Software Engineering Intern @ Critical Start
   * ML Researcher @ UT Dallas
 
 ## 👻 Tech Stack
